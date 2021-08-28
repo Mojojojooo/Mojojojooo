@@ -23,6 +23,9 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth Vernekar | LinkedIn" width="100px"/></a>
 <!-- <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yashwanth Vernekar | Instagram" width="21px"/></a> -->
 <a href="https://medium.com/@yashvernekar674"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yashwanth Vernekar | Medium" width="100px"/></a>
+</br>
+
+### 💬 Hit me up let's learn together:
 <a href="https://twitter.com/Mojotweetss"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Yashwanth Vernekar | Twitter" width="100px"/></a>
 
 </br>
