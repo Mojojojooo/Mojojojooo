@@ -18,7 +18,7 @@ I'm a Software Engineer 💻, Photographer 📸, and UI/UX Designer 🎨!
 I'm a chaos mind who wants to learn a new thing every other day ( have a huge list not sharing ((shush)) ) ! Currently coding my way out of this life. 
 </h4> 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth Vernekar | LinkedIn" width="100px"/></a>
 <!-- <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yashwanth Vernekar | Instagram" width="21px"/></a> -->
@@ -32,10 +32,7 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 <!-- - 💬 If you have any question/feedback, please do not hesitate to reach out to me! -->
 
 ### 🌱 I’m currently learning ...
-  -  ![Verilog](https://img.shields.io/badge/Verilog-663399.svg?style=for-the-badge&logoColor=white)
-  -  ![ROS](https://img.shields.io/badge/ros-DD0031.svg?style=for-the-badge&logo=ros&logoColor=white)
-  -  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  -  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  -  ![Verilog](https://img.shields.io/badge/Verilog-663399.svg?style=for-the-badge&logoColor=white) ![ROS](https://img.shields.io/badge/ros-DD0031.svg?style=for-the-badge&logo=ros&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🤔 I’m looking for help with ANYTHING ASIC,VLSI,FPGS. 
 
