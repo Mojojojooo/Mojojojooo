@@ -29,8 +29,8 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 <!-- - 💬 If you have any question/feedback, please do not hesitate to reach out to me! -->
 
 ### 🌱 I’m currently learning ...
-  -  ![Verilog](https://img.shields.io/badge/Verilog-%230A0FF9.svg?style=for-the-badge&logoColor=white)
-  -  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+  -  ![Verilog](https://img.shields.io/badge/Verilog-663399.svg?style=for-the-badge&logoColor=white)
+  -  ![ROS](https://img.shields.io/badge/ros-DD0031.svg?style=for-the-badge&logo=ros&logoColor=white)
   -  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   -  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -46,7 +46,7 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Verilog-%230A0FF9.svg?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Verilog-663399.svg?style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
