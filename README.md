@@ -17,6 +17,7 @@ I'm a Software Engineer 💻, Photographer 📸, and UI/UX Designer 🎨!
 <h4>
 I'm a chaos mind who wants to learn a new thing every other day ( have a huge list not sharing ((shush)) ) ! Currently coding my way out of this life. 
 </h4> 
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth Vernekar | LinkedIn" width="100px"/></a>
