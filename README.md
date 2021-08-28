@@ -18,7 +18,7 @@ I'm a Software Engineer 💻, Photographer 📸, and UI/UX Designer 🎨!
 I'm a chaos mind who wants to learn a new thing every other day ( have a huge list not sharing ((shush)) ) ! Currently coding my way out of this life. 
 </h4> 
 
-## 🤝 Connect with me:
+### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth Vernekar | LinkedIn" width="100px"/></a>
 <!-- <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yashwanth Vernekar | Instagram" width="21px"/></a> -->
@@ -62,7 +62,7 @@ Web Langauges(not so good at it):
 
 ## 📈 GitHub Stats 
 
-[![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo)](https://github.com/Mojojojooo)
+<!-- [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo)](https://github.com/Mojojojooo) -->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mojojojooo.Mojojojooo)](https://github.com/Mojojojooo)
 
