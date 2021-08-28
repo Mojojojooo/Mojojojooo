@@ -23,10 +23,37 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth Vernekar | LinkedIn" width="100px"/></a>
 <!-- <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yashwanth Vernekar | Instagram" width="21px"/></a> -->
 <a href="https://medium.com/@yashvernekar674"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yashwanth Vernekar | Medium" width="100px"/></a>
+<a href="https://twitter.com/Mojotweetss"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Yashwanth Vernekar | Twitter" width="100px"/></a>
+
 </br>
 <!-- - 💬 If you have any question/feedback, please do not hesitate to reach out to me! -->
 
+### 🌱 I’m currently learning ...
+  -  ![Verilog](https://img.shields.io/badge/Verilog-%230A0FF9.svg?style=for-the-badge&logoColor=white)
+  -  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+  -  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  -  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- 🤔 I’m looking for help with ANYTHING ASIC,VLSI,FPGS. 
+
 ## 💼 Technical Skills
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Verilog-%230A0FF9.svg?style=for-the-badge&logoColor=white)
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) -->
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<!-- ![]() -->
 
 
 ## 📈 GitHub Stats 
@@ -35,9 +62,9 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mojojojooo.Mojojojooo)](https://github.com/Mojojojooo)
 
-## Stargazers
+<!-- ## Stargazers
 
-[![Stargazers repo roster for @Mojojojooo/Mojojojooo](https://reporoster.com/stars/Mojojojooo/Mojojojooo)](https://github.com/Mojojojooo/Mojojojooo/stargazers)
+[![Stargazers repo roster for @Mojojojooo/Mojojojooo](https://reporoster.com/stars/Mojojojooo/Mojojojooo)](https://github.com/Mojojojooo/Mojojojooo/stargazers) -->
 
 <!--
 **Mojojojooo/Mojojojooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
