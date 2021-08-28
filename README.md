@@ -17,7 +17,7 @@ I'm a Software Engineer 💻, Photographer 📸, and UI/UX Designer 🎨!
 
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yashwanth Vernekar | LinkedIn" width="21px"/></a>
 <!-- <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yashwanth Vernekar | Instagram" width="21px"/></a> -->
-<a href="https://medium.com/@yashvernekar674"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yashwanth Vernekar | Medium" width="21px"/></a>
+<a href="https://medium.com/@yashvernekar674"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yashwanth Vernekar | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
