@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Mojojojooo/Mojojojooo/blob/main/images/DesignCodeEtc.png" alt="my banner"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
