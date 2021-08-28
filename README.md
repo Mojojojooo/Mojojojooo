@@ -60,7 +60,7 @@ Web Langauges(not so good at it):
 <!-- ![]() -->
 
 
-## 📈 GitHub Stats 
+<!-- ## 📈 GitHub Stats  -->
 
 <!-- [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo)](https://github.com/Mojojojooo) -->
 
