@@ -60,17 +60,17 @@ Web Langauges(not so good at it):
 
 ## 📈 GitHub Stats 
 
-<!-- [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo)](https://github.com/Mojojojooo) -->
-[![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo&theme=blue-green)](https://github.com/Mojojojooo)
+[![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo)](https://github.com/Mojojojooo)
+<!-- [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo&theme=blue-green)](https://github.com/Mojojojooo) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mojojojooo&layout=compact)](https://github.com/Mojojojooo) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mojojojooo&theme=blue-green)](https://github.com/Mojojojooo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mojojojooo&layout=compact)](https://github.com/Mojojojooo)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mojojojooo&theme=blue-green)](https://github.com/Mojojojooo) -->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mojojojooo.Mojojojooo)](https://github.com/Mojojojooo)
 
-## Stargazers
+<!-- ## Stargazers -->
 
-[![Stargazers repo roster for @Mojojojooo/Mojojojooo](https://reporoster.com/stars/Mojojojooo/Mojojojooo)](https://github.com/Mojojojooo/Mojojojooo/stargazers)
+<!-- [![Stargazers repo roster for @Mojojojooo/Mojojojooo](https://reporoster.com/stars/Mojojojooo/Mojojojooo)](https://github.com/Mojojojooo/Mojojojooo/stargazers) -->
 
 <!--
 **Mojojojooo/Mojojojooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
