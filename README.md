@@ -27,7 +27,8 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 
 ### 💬 Hit me up let's learn together:
 <a href="https://twitter.com/Mojotweetss"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Yashwanth Vernekar | Twitter" width="100px"/></a>
-<a href="mojojojo#6976"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Yashwanth Vernekar | Discord" width="100px"/></a> (mojojojo#6976)
+<a href="mojojojo#6976"><img align="left" src="https://img.shields.io/badge/mojojojo#6976-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Yashwanth Vernekar | Discord" width="100px"/></a> 
+<!-- (mojojojo#6976) -->
 
 
 </br>
