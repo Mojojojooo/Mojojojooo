@@ -20,9 +20,9 @@ I'm a chaos mind who wants to learn a new thing every other day ( have a huge li
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/yashwanth-vernekar-491512146/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth Vernekar | LinkedIn" width="100px"/></a>
-<a href="https://medium.com/@yashvernekar674"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yashwanth Vernekar | Medium" width="100px"/></a>
-<a href="https://dribbble.com/YashwanthVernekar/shots"><img align="left" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Yashwanth Vernekar | Dribble" width="100px"/></a>
-<a href="https://www.behance.net/yashwanthvernekar"><img align="left" src="https://img.shields.io/badge/Behance-00457C?style=for-the-badge&ogoColor=white" alt="Yashwanth Vernekar | Behance" width="100px"/></a>
+<a href="https://medium.com/@yashvernekar674"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yashwanth Vernekar | Medium" width="90px"/></a>
+<a href="https://dribbble.com/YashwanthVernekar/shots"><img align="left" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Yashwanth Vernekar | Dribble" width="110px"/></a>
+<a href="https://www.behance.net/yashwanthvernekar"><img align="left" src="https://img.shields.io/badge/Behance-00457C?style=for-the-badge&ogoColor=white" alt="Yashwanth Vernekar | Behance" width="90px"/></a>
 </br>
 
 ### 💬 Hit me up let's learn together:
