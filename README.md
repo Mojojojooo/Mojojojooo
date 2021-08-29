@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Mojojojooo/Mojojojooo/blob/main/images/Hello%2C%20my%20name%20is%20Yashwanth%20Vernekar.%20Nice%20to%20meet%20you..png" alt="my banner"></a>
+  <a href="https://github.com/Mojojojooo/" target="_blank" rel="noreferrer"><img src="https://github.com/Mojojojooo/Mojojojooo/blob/main/images/Hello%2C%20my%20name%20is%20Yashwanth%20Vernekar.%20Nice%20to%20meet%20you..png" alt="my banner"></a>
 </p>
 
 <!-- ### Hi there 👋 -->
