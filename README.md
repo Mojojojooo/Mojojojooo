@@ -58,9 +58,11 @@ Web Langauges(not so good at it):
 <!-- ![]() -->
 
 
-<!-- ## 📈 GitHub Stats  -->
+## 📈 GitHub Stats 
 
 [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=Mojojojooo)](https://github.com/Mojojojooo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mojojojooo.Mojojojooo)](https://github.com/Mojojojooo)
 
